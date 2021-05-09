@@ -1,5 +1,5 @@
 body {
-  background: #fafafa;
+  background: #ffffff;
   color: #333333;
   margin-top: 5rem;
 }
@@ -7,6 +7,7 @@ body {
 h1, h2, h3, h4, h5, h6 {
   color: #444444;
 }
+
 
 .bg-steel {
   background-color: #5f788a;
@@ -27,9 +28,9 @@ h1, h2, h3, h4, h5, h6 {
 .content-section {
   background: #ffffff;
   padding: 10px 20px;
-  border: 1px solid #dddddd;
   border-radius: 3px;
   margin-bottom: 20px;
+  max-width: 750px;
 }
 
 .article-title {
@@ -54,7 +55,6 @@ a.article-title:hover {
 .article-metadata {
   padding-bottom: 1px;
   margin-bottom: 4px;
-  border-bottom: 1px solid #e3e3e3
 }
 
 .article-metadata a:hover {
@@ -77,4 +77,29 @@ a.article-title:hover {
 
 .account-heading {
   font-size: 2.5rem;
+}
+
+.btn-info {
+  color: #fff;
+  background-color: #212829;
+  border-color: #212829;
+}
+
+.btn-outline-info {
+  color: #212829;
+  background-color: transparent;
+  background-image: none;
+  border-color: #212829;
+}
+
+.btn-outline-info:hover {
+  color: #fff;
+  background-color: #212829;
+  border-color: #212829;
+}
+
+.btn-info:hover{
+  color: #fff;
+  background-color: #212829;
+  border-color: #212829;
 }
