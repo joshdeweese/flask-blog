@@ -3,10 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e7eb3759-7cf6-45a9-a8ae-2f486d368875" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flaskblog/main/routes.py" beforeDir="false" afterPath="$PROJECT_DIR$/flaskblog/main/routes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flaskblog/posts/routes.py" beforeDir="false" afterPath="$PROJECT_DIR$/flaskblog/posts/routes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flaskblog/static/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/flaskblog/static/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flaskblog/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/flaskblog/templates/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskblog/templates/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/flaskblog/templates/blog.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/flaskblog/templates/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/flaskblog/templates/layout.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/flaskblog/templates/post.html" beforeDir="false" afterPath="$PROJECT_DIR$/flaskblog/templates/post.html" afterDir="false" />
     </list>
@@ -110,7 +107,7 @@
       <workItem from="1620090213978" duration="1648000" />
       <workItem from="1620092039508" duration="1088000" />
       <workItem from="1620093249658" duration="177000" />
-      <workItem from="1620487306590" duration="17277000" />
+      <workItem from="1620487306590" duration="20080000" />
     </task>
     <servers />
   </component>
